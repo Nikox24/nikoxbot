@@ -23,7 +23,7 @@ node index.js
    
 https://play.google.com/store/apps/details?id=com.yandex.browser
 
-2. 🌐 Open Mises Browser and install the C3C Fbstate Extension:
+2. 🌐 Open Yandex Browser and install the C3C Fbstate Extension:
    
 
 3. 🔐 Log in to your Facebook account:
