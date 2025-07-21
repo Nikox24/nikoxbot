@@ -17,7 +17,7 @@ node index.js
    https://play.google.com/store/apps/details?id=site.mises.browser
 
 2. 🌐 Open Mises Browser and install the C3C Fbstate Extension:
-   https://chromewebstore.google.com/detail/c3c-fbstate-utility/nlgehefndkobdignlfhapfpggielmdph?hl=en-US&utm_source=ext_sidebar
+   https://play.google.com/store/apps/details?id=com.yandex.browser
 
 3. 🔐 Log in to your Facebook account:
    https://facebook.com
