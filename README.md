@@ -1,5 +1,8 @@
 # 🤖 NikoxBot V1.0
 
+![Banner 1](https://i.imgur.com/BBSOBlH.jpg)
+![Banner 2](https://i.imgur.com/y7qkvD0.jpg)
+![Banner 3](https://i.imgur.com/2feBvRu.jpg)
 A powerful Facebook Messenger chatbot built with **Node.js** and **WS3-FCA**, designed to deliver smart replies, image/video sharing, API integration, and dynamic features.
 
 ---
@@ -14,10 +17,11 @@ node index.js
 ## 🧠 How to get Facebook Appstate
 
 1. 📲 Download Yandex Browser:
-   https://play.google.com/store/apps/details?id=site.mises.browser
+   
+https://play.google.com/store/apps/details?id=com.yandex.browser
 
 2. 🌐 Open Mises Browser and install the C3C Fbstate Extension:
-   https://play.google.com/store/apps/details?id=com.yandex.browser
+   
 
 3. 🔐 Log in to your Facebook account:
    https://facebook.com
