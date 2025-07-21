@@ -1,9 +1,12 @@
 # 🤖 NikoxBot V1.0
-
-![Banner 1](https://i.imgur.com/BBSOBlH.jpg)
-![Banner 2](https://i.imgur.com/y7qkvD0.jpg)
-![Banner 3](https://i.imgur.com/2feBvRu.jpg)
 A powerful Facebook Messenger chatbot built with **Node.js** and **WS3-FCA**, designed to deliver smart replies, image/video sharing, API integration, and dynamic features.
+
+<!-- Minimal Banner Album (Small Size) -->
+<p align="center">
+  <img src="https://i.imgur.com/BBSOBlH.jpg" alt="Banner 1" width="300"/>
+  <img src="https://i.imgur.com/y7qkvD0.jpg" alt="Banner 2" width="300"/>
+  <img src="https://i.imgur.com/2feBvRu.jpg" alt="Banner 3" width="300"/>
+</p>
 
 ---
 
